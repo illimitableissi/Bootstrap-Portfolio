@@ -13,7 +13,7 @@ body{
     border-color: #dddddd;
     background-color: #ffffff;
     margin-top: 50px;
-    margin-bottom: 100px;
+    margin-bottom: 20px;
 }
 
 h1{
@@ -25,11 +25,9 @@ h1{
     height: auto;
 }
 
-.row-images{
-    position: relative;
-    width: 700px;
-    overflow: auto;
-  }
+.col-4{
+    margin: 10px;
+}
 
 .row-images .btn {
     position: absolute;
